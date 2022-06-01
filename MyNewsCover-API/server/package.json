@@ -1,0 +1,23 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "Semana 1 del curso de ISW-711",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dom-parser": "^0.1.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.11",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.3",
+    "rss-parser": "^3.12.0",
+    "twilio": "^3.67.0"
+  }
+}
